@@ -9,7 +9,7 @@ Skills: Project scheduling, risk management, AutoCAD, Trello, Lean Six Sigma.
 Certifications: Alison Diploma, Lean Six Sigma White Belt (in progress).
 
 Explore
-Visit Osei-OwusuEng.github.io for my full portfolio.
+Visit [Osei-OwusuEng.github.io](https://osei-owusueng.github.io/Osei-OwusuPortfolio/) for my full portfolio.
 
 Contact
 Email: joseiowusu538@gmail.com
